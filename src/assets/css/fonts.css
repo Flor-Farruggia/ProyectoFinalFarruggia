@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400..900&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Markazi+Text:wght@400..700&family=Radley:ital@0;1&display=swap');
+/**font-family: "Cinzel", serif;*/
+/**font-family: "Cinzel Decorative", serif;*/
+/**font-family: "Radley", serif;*/
+
+.font-cinzel{
+    font-family: "Cinzel", serif;
+}
+.font-cinzel-deco{
+    font-family: "Cinzel Decorative", serif;
+}
+.font-radley {
+    font-family: "Radley", serif;
+  }
+
+.text-small {
+    font-size: 0.8rem;
+}
+.text-normal {
+    font-size: 1rem;
+}
+.text-regular {
+    font-size: 1.2rem;
+}
+.text-medium {
+    font-size: 1.4rem;
+}
+.text-x-medium {
+    font-size: 1.6rem;
+}
+.text-big {
+    font-size: 2rem;
+}
+.text-xl {
+    font-size: 2.8rem;
+}
+.text-xxl {
+    font-size: 3.4rem;
+}
+.regular {
+    font-weight: 400;
+}
+.medium {
+    font-weight: 500;
+}
+.x-medium{
+    font-weight: 600;
+}
+.bold {
+    font-weight: 700;
+}
+
+.black {
+    font-weight: 900;
+}
+
+
+.btn-text-01{
+    font-size: 1rem;
+    line-height: 1;
+}
+
+/* h1 {
+
+    font-size: 8.438rem;
+}
+
+h2 {
+
+    font-size: 5rem;
+}
+
+h3 {
+
+    font-size: 4.063rem;
+}
+
+h4 {
+
+    font-size: 2.5rem;
+}
+
+h5 {
+
+    font-size: 1.5rem;
+}
+
+h6 {
+
+    font-size: 1.063rem;
+}
+
+p {
+    font-family:;
+    font-size:;
+} */
