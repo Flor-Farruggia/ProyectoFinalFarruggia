@@ -119,15 +119,15 @@ src/
 
 | Inicio | Detalle |
 |--------|---------|
-| ![](./screenshots/home.png) | ![](./screenshots/detail.png) |
+| ![](./screenshot/home.png) | ![](./screenshot/detail.png) |
 
 | Carrito | Checkout |
 |----------|----------|
-| ![](./screenshots/cart.png) | ![](./screenshots/checkout.png) |
+| ![](./screenshot/cart.png) | ![](./screenshot/checkout.png) |
 
 ### Confirmación de compra
 
-![](./screenshots/confirm.png)
+![](./screenshot/confirm.png)
 
 ---
 
